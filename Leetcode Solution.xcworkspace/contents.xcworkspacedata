@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AddDigits/AddDigits.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:GroupAnagrams/GroupAnagrams.xcodeproj">
    </FileRef>
    <FileRef
