@@ -19,6 +19,7 @@ public:
         }
         cout << endl;
     }
+    
     int fourSumCount(vector<int>& A, vector<int>& B, vector<int>& C, vector<int>& D) {
         int res = 0;
         unordered_map <int, int> m; // <sum, count>
@@ -29,6 +30,7 @@ public:
                 ++m[A[i] + B[j]]; // question: how (2,0) appears?
             }
         }
+        printMap(m);
         cout <<"map's size: " << m.size() << endl;
         
         for(int i = 0; i < C.size(); i++){
@@ -47,7 +49,7 @@ public:
 int main(int argc, const char * argv[]) {
     vector<int> A = {1, 2};
     vector<int> B = {-2, -1};
-    vector<int> C = {-1, -2};
+    vector<int> C = {-1, 2};
     vector<int> D = {0, 2};
     
     Solution s;

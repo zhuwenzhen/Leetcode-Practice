@@ -2,6 +2,69 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:MinStack/MinStack.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LinkedList/LinkedList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UniquePaths/UniquePaths.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MinimumSizeSubarraySum/MinimumSizeSubarraySum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FindPeakElement-II/FindPeakElement-II.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FindPeakElement-I/FindPeakElement-I.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DesignTwitter/DesignTwitter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SimplifyPath/SimplifyPath.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MovingAverageFromDataStream/MovingAverageFromDataStream.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MaximumSubarray/MaximumSubarray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ClimbingStairs/ClimbingStairs.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SingleNumber/SingleNumber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BinarySearchArray/BinarySearchArray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PermutationString/PermutationString.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NewtonMethod/NewtonMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WordBreakII/WordBreakII.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TwoSumII/TwoSumII.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UglyNumber/UglyNumber.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AddDigits/AddDigits.xcodeproj">
    </FileRef>
    <FileRef

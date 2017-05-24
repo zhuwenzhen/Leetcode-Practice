@@ -64,7 +64,6 @@ public:
         return temp;
     }
     
-
     string addBinary(string a, string b) {
         string result;
         int numA = convertToDecimal(a);
@@ -84,9 +83,6 @@ public:
         }
         return digit;
     }
-    
-    
-
 };
 
 int main(){
