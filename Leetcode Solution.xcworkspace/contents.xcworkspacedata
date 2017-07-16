@@ -2,6 +2,45 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TwoSum/TwoSum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SearchInRotatedSortedArray/SearchInRotatedSortedArray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PalindromeLinkedList/PalindromeLinkedList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SlidingWindowMaximum/SlidingWindowMaximum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Amazon_FindEven/Amazon_FindEven.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LRUCache/LRUCache.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PowerOfTwo/PowerOfTwo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IsomorphicStrings/IsomorphicStrings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RomanToInteger/RomanToInteger.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NextGreaterElementI/NextGreaterElementI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TrappingRainWater/TrappingRainWater.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ValidParentheses/ValidParentheses.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:MinStack/MinStack.xcodeproj">
    </FileRef>
    <FileRef

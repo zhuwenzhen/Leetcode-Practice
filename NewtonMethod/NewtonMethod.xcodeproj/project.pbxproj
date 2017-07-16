@@ -249,6 +249,7 @@
 				15A706291E7A3ACD006A138F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
